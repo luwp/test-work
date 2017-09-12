@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("ssdadsddddddddddddddddddddd0000");
+            Console.WriteLine("ssdadsddddddddddddddddddddd0000品牌品牌铺铺铺铺铺");
         }
     }
 }
